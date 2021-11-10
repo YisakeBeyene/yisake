@@ -95,6 +95,7 @@
   }
   #testimonial .media .media-body {
     padding-right: 0;
+    height: 200px;
   }
   #team .col {
     margin-bottom: 20px;
