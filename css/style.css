@@ -171,8 +171,8 @@ header .navbar {
   padding: 0;
 }
 .navbar-brand {
-  padding: 0;
-  height: auto;
+  padding: 5px;
+ 
 }
 .navbar-toggle {
   border-color: #333;
